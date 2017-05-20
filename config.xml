@@ -2,11 +2,12 @@
 <widget id="com.berglonn.alkpk" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>APK-Berglönn</name>
     <description>
-        A blank PhoneGap app.
+        En app för att läsa ut alkohol per krona
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="sebastianberglonn@gmail.com" href="http://studenter.miun.se/~sebe1603/portfolio/">
+        Sebastian Berglönn
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <plugin name="cordova-plugin-whitelist" spec="~1.3.2" />
 </widget>

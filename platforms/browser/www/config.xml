@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.berglonn.alkpk" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>APK-Berglönn</name>
+    <description>
+        En app för att läsa ut alkohol per krona
+    </description>
+    <author email="sebastianberglonn@gmail.com" href="http://studenter.miun.se/~sebe1603/portfolio/">
+        Sebastian Berglönn
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
